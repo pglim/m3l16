@@ -10,6 +10,7 @@ on:
         - dev
         - uat
         - prod
+        - lpg
 jobs:
   build:
     runs-on: ubuntu-latest
